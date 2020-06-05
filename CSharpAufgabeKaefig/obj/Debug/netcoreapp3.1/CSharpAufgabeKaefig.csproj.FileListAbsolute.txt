@@ -1,0 +1,13 @@
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\bin\Debug\netcoreapp3.1\CSharpAufgabeKaefig.exe
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\bin\Debug\netcoreapp3.1\CSharpAufgabeKaefig.deps.json
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\bin\Debug\netcoreapp3.1\CSharpAufgabeKaefig.runtimeconfig.json
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\bin\Debug\netcoreapp3.1\CSharpAufgabeKaefig.runtimeconfig.dev.json
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\bin\Debug\netcoreapp3.1\CSharpAufgabeKaefig.dll
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\bin\Debug\netcoreapp3.1\CSharpAufgabeKaefig.pdb
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\obj\Debug\netcoreapp3.1\CSharpAufgabeKaefig.csprojAssemblyReference.cache
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\obj\Debug\netcoreapp3.1\CSharpAufgabeKaefig.AssemblyInfoInputs.cache
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\obj\Debug\netcoreapp3.1\CSharpAufgabeKaefig.AssemblyInfo.cs
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\obj\Debug\netcoreapp3.1\CSharpAufgabeKaefig.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\obj\Debug\netcoreapp3.1\CSharpAufgabeKaefig.dll
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\obj\Debug\netcoreapp3.1\CSharpAufgabeKaefig.pdb
+C:\Users\DCV\source\repos\CSharpAufgabeKaefig\CSharpAufgabeKaefig\obj\Debug\netcoreapp3.1\CSharpAufgabeKaefig.genruntimeconfig.cache
